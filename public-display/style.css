@@ -1,0 +1,23 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+/*
+video {
+    position: fixed;
+    top:600;
+    left: 0;
+    z-index: 99;
+}
+*/
+
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column-reverse;
+}
